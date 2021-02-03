@@ -1,5 +1,5 @@
 # Athena-Ticket-Scanner
-An android application to read information from greek OASA tickets, using NFC.
+An android application that reads information from greek OASA tickets, using NFC.
 
 # Short description
 Athena ticket scanner, is an application that reads info from OASA metro tickets, and shows it to the user in an convenient and friendly GUI.
