@@ -10,7 +10,11 @@ To use the app, simply download it from the [github repo](https://github.com/Ant
 install it. All you have to do now, is approach an ATH.ENA OASA Ticket on your NFC capable device, and the app will show you all useful information about it (trip time left, trips left, active products, remaning balance and many more). You can also open the app, and scan a ticket from there, otherwise when you approach the ticket the app will automatically open.
 
 GUI after a ticket has been scanned :
+
+
 ![Screenshot](s1.jpg)
+
+The app also has a real-time countdown, showing you how much time you have left on your trip.
 
 # Requirements
 In order to use the app, your phone must have android 4.2 or newer, and NFC functionality.
