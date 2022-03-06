@@ -15,10 +15,10 @@ Currently, available languages are Greek and English
 # User interface
 
 ## Main UI
-Main screen (upon app launch) :<br>
+###Main screen (upon app launch) :<br>
 ![mainscr](mainscreenx.jpg) <br>
+###Language picker screen : <br>
 To change language, select the "Language/Γλώσσα" button <br>
-Language picker screen : <br>
 ![lang](langpicker.png) <br>
 The app saves the language preference in a config file and provides a restart button using a snackbar (android UI component), for the changes to take effect
 
@@ -35,7 +35,7 @@ If the trip has expired, the live timer will have a RED color and the ticket wil
 If a trip is active, the live timer will have a countdown of the remaining time with GREEN color, and the active ticket will be marked with GREEN color in the product slots.<br>
 
 
-UI after scanning an expired ticket : <br>
+###UI after scanning an expired ticket : <br>
 ![expired](ticketscanexpired.png) <br>
 
 
