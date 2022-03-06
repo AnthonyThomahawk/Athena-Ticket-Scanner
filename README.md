@@ -5,6 +5,9 @@ An android application that reads information from greek public transport ticket
 Athena ticket scanner, is an application that reads info from OASA tickets, and shows it to the user in an convenient and friendly GUI.
 Using it is extremely easy, just tap an ATH.ENA TICKET or ATH.ENA CARD on your device's NFC sensor, and the app will show ticket information (trips left, time left on active trip, ticket ID, user profile etc.)
 
+# Languages
+Currently, available languages are Greek and English
+
 # Device requirements
 * Android 4.3 or newer
 * NFC sensor
