@@ -15,6 +15,10 @@ Currently, available languages are Greek and English
 # User interface
 Main screen (upon app launch) :<br>
 ![mainscr](mainscreenx.jpg)
+To change language, select the "Language/Γλώσσα" button <br>
+Language picker screen : <br>
+![lang](langpicker.jpg)
+
 
 
 # Installation
