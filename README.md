@@ -33,6 +33,13 @@ Gray color = *INACTIVE/EXPIRED*<br>
 If the trip has expired, the live timer will have a RED color and the ticket will be marked as expired in the product slots with GRAY color.<br>
 If a trip is active, the live timer will have a countdown of the remaining time with GREEN color, and the active ticket will be marked with GREEN color in the product slots.<br>
 
+The interface also features 2 product slots, one of which is the active product and the other being the expired/unused.<br>
+It also contains information about the users category (if the user can get a discount or free tickets), the card ID (number found on the card) and some technical information (memory size, date issued, manufacturer of tag).
+
+## UI Examples
+
+### UI after scanning an active ticket : <br>
+![active](ticketscanactive.png) <br>
 
 ### UI after scanning an expired ticket : <br>
 ![expired](ticketscanexpired.png) <br>
