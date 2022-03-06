@@ -9,6 +9,11 @@ Using it is extremely easy, just tap an ATH.ENA TICKET or ATH.ENA CARD on your d
 * Android 4.3 or newer
 * NFC sensor
 
+# User interface
+Main screen (upon app launch) :
+![mainscr](mainscreen.jpg)
+
+
 # Installation
 Latest app version is available on Google Play Store, link : https://play.google.com/store/apps/details?id=com.tonyTsoftware.nfctagreader2<br>
 or the release section of this repository (in APK form).
