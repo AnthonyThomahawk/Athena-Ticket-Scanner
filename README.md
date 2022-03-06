@@ -18,7 +18,6 @@ Currently, available languages are Greek and English
 ### Main screen (upon app launch) :<br>
 ![mainscr](mainscreenx.jpg) <br>
 ### Language picker screen : <br>
-To change language, select the "Language/Γλώσσα" button <br>
 ![lang](langpicker.png) <br>
 The app saves the language preference in a config file and provides a restart button using a snackbar (android UI component), for the changes to take effect
 
