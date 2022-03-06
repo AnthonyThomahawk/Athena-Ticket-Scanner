@@ -33,7 +33,7 @@ Green color = **ACTIVE**<br>
 Red color = *EXPIRED*<br>
 Gray color = *INACTIVE/EXPIRED*<br>
 
-If the trip has expired, the live timer will have a RED color and the ticket will be marked as expired in the product slots with GRAY color.<br>
+If the trip has expired, the live timer will have a RED color with text "The trip has expired" and the ticket will be marked as expired in the product slots with GRAY color.<br>
 If a trip is active, the live timer will have a countdown of the remaining time with GREEN color, and the active ticket will be marked with GREEN color in the product slots.<br>
 
 The interface also features 2 product slots, one of which is the active product and the other being the expired/unused.<br>
