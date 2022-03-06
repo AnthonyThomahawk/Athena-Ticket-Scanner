@@ -10,7 +10,7 @@ Using it is extremely easy, just tap an ATH.ENA TICKET or ATH.ENA CARD on your d
 * NFC sensor
 
 # User interface
-Main screen (upon app launch) :
+Main screen (upon app launch) :<br>
 ![mainscr](mainscreenx.jpg)
 
 
