@@ -24,6 +24,9 @@ The app saves the language preference in a config file and provides a restart bu
 ## Ticket result UI
 
 After the completed scan of a ticket, its information will be shown in the Show Info activity.
+
+The remaining trips can either be a number (>=0) or "Unlimited" meaning the ticket is time based (expires after a certain amount of time, for example 1 month).
+
 The UI has a color scheme so users can easily tell which product is active, and how much time they have left.<br>
 In summary :<br>
 Green color = **ACTIVE**<br>
