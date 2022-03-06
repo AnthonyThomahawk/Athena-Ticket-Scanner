@@ -18,7 +18,8 @@ Main screen (upon app launch) :<br>
 To change language, select the "Language/Γλώσσα" button <br>
 Language picker screen : <br>
 ![lang](langpicker.png) <br>
-
+UI after scanning an expired ticket : <br>
+![expired](ticketscanexpired.png) <br>
 
 
 # Installation
