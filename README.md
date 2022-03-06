@@ -17,7 +17,7 @@ Main screen (upon app launch) :<br>
 ![mainscr](mainscreenx.jpg) <br>
 To change language, select the "Language/Γλώσσα" button <br>
 Language picker screen : <br>
-![lang](langpicker.jpg) <br>
+![lang](langpicker.png) <br>
 
 
 
