@@ -20,6 +20,7 @@ Main screen (upon app launch) :<br>
 To change language, select the "Language/Γλώσσα" button <br>
 Language picker screen : <br>
 ![lang](langpicker.png) <br>
+The app saves the language preference in a config file and provides a restart button using a snackbar (android UI component), for the changes to take effect
 
 ## Ticket result UI
 
