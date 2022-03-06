@@ -18,6 +18,18 @@ Main screen (upon app launch) :<br>
 To change language, select the "Language/Γλώσσα" button <br>
 Language picker screen : <br>
 ![lang](langpicker.png) <br>
+<br><br>
+After the completed scan of a ticket, its information will show in the Show Info activity.
+The UI has a color scheme so users can easily tell which product is active, and how much time they have left.
+In retrospect :
+Green color = ACTIVE
+Red color = EXPIRED
+Gray color = INACTIVE/EXPIRED
+
+If the trip has expired, the live timer will have a RED color and the ticket will be marked as expired in the product slots with GRAY color.<br>
+If a trip is active, the live timer will have a countdown of the remaining time with GREEN color, and the active ticket will be marked with GREEN color in the product slots.<br>
+
+
 UI after scanning an expired ticket : <br>
 ![expired](ticketscanexpired.png) <br>
 
