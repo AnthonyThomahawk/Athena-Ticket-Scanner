@@ -23,12 +23,12 @@ The app saves the language preference in a config file and provides a restart bu
 
 ## Ticket result UI
 
-After the completed scan of a ticket, its information will show in the Show Info activity.
+After the completed scan of a ticket, its information will be shown in the Show Info activity.
 The UI has a color scheme so users can easily tell which product is active, and how much time they have left.<br>
 In summary :<br>
-Green color = ACTIVE<br>
-Red color = EXPIRED<br>
-Gray color = INACTIVE/EXPIRED<br>
+Green color = **ACTIVE**<br>
+Red color = *EXPIRED*<br>
+Gray color = *INACTIVE/EXPIRED*<br>
 
 If the trip has expired, the live timer will have a RED color and the ticket will be marked as expired in the product slots with GRAY color.<br>
 If a trip is active, the live timer will have a countdown of the remaining time with GREEN color, and the active ticket will be marked with GREEN color in the product slots.<br>
