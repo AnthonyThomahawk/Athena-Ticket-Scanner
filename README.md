@@ -13,12 +13,17 @@ Currently, available languages are Greek and English
 * NFC sensor
 
 # User interface
+
+## Main UI
 Main screen (upon app launch) :<br>
 ![mainscr](mainscreenx.jpg) <br>
 To change language, select the "Language/Γλώσσα" button <br>
 Language picker screen : <br>
 ![lang](langpicker.png) <br>
 <br><br>
+
+## Ticket result UI
+
 After the completed scan of a ticket, its information will show in the Show Info activity.
 The UI has a color scheme so users can easily tell which product is active, and how much time they have left.
 In retrospect :
